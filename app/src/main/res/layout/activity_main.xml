@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:text="Full LAB"
+    android:textSize="30dp"
+    android:textColor="@color/black"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:layout_margin="5dp"/>
+    <Button
+        android:id="@+id/btnlab1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 1"/>
+    <Button
+        android:id="@+id/btnlab2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 2"/>
+    <Button
+        android:id="@+id/btnlab3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 3"/>
+    <Button
+        android:id="@+id/btnlab4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 4"/>
+    <Button
+        android:id="@+id/btnlab5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 5"/>
+    <Button
+        android:id="@+id/btnlab6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 6"/>
+    <Button
+        android:id="@+id/btnlab7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 1"/>
+    <Button
+        android:id="@+id/btnlab8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAB 8"/>
+</LinearLayout>
